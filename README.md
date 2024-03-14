@@ -1,3 +1,31 @@
+# Relatório sobre Desenvolvimento de Projetos Ágeis: Uma Abordagem Metodológica
+
+## Introdução
+
+O desenvolvimento ágil de software é uma abordagem que visa a entrega contínua de valor aos clientes, adaptando-se rapidamente às mudanças e priorizando a colaboração entre indivíduos. Neste relatório, exploraremos os métodos, resultados e conclusões relacionados ao desenvolvimento de projetos ágeis, abordando desde a análise de requisitos até a entrega final.
+
+## Métodos
+
+Para entender os métodos utilizados no desenvolvimento ágil, exploramos diferentes aspectos, incluindo levantamento e análise de requisitos, configuração e fluxo de trabalho, atividades de qualidade em metodologias ágeis, testes e execução de testes. Utilizamos ferramentas como Atlassian JIRA para gerenciamento de trabalho, quadros ágeis para organização de tarefas e obtenção de relatórios, além de integração com outras aplicações para maximizar a eficiência do processo.
+
+## Resultados
+
+Os resultados destacam a eficácia das metodologias ágeis no desenvolvimento de projetos. Identificamos que a abordagem colaborativa e iterativa permite uma adaptação mais rápida às mudanças de requisitos, resultando em produtos mais alinhados com as necessidades dos clientes. Além disso, a utilização de ferramentas especializadas facilita o gerenciamento de trabalho e a comunicação entre as equipes.
+
+## Conclusão
+
+Com base nos métodos e resultados obtidos, podemos concluir que o desenvolvimento de projetos ágeis oferece uma abordagem eficiente e flexível para o desenvolvimento de software. A ênfase na colaboração, adaptação e entrega contínua de valor resulta em produtos de alta qualidade que atendem às expectativas dos clientes. No entanto, é crucial manter um equilíbrio entre flexibilidade e disciplina para garantir o sucesso do projeto.
+
+## Estudo de Caso: Desenvolvimento de um Aplicativo de Entregas
+
+Como estudo de caso, consideramos o desenvolvimento de um aplicativo de entregas utilizando metodologias ágeis. Iniciamos com o levantamento e análise de requisitos, onde identificamos as necessidades dos usuários, como a melhoria do rastreamento de encomendas. Utilizando ferramentas como Atlassian JIRA, organizamos o trabalho em quadros ágeis, atribuímos tarefas e acompanhamos o progresso. Durante o desenvolvimento, realizamos testes de unidade, integração e aceitação para garantir a qualidade do produto. Após a entrega, coletamos feedback dos usuários e realizamos ajustes e melhorias contínuas, demonstrando a aplicação prática das metodologias ágeis no desenvolvimento de software.
+
+## Referências
+
+- Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., ... & Kern, J. (2001). Manifesto for agile software development. Agile Alliance.
+- Cohn, M. (2004). User stories applied: For agile software development. Addison-Wesley Professional.
+
+
 # Fluxo de Desenvolvimento de Projeto Ágil
 
 ```mermaid
